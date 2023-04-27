@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 .main{
+	padding:10px;
 	width:200px;
 	background-color:purple;
 	border-left-color:green;
@@ -10,7 +11,7 @@
 	
 }
 .main #heading{
-	padding:10px;
+	
 	font-size:20px;
 	color:white;
 	text-decoration:underline;
